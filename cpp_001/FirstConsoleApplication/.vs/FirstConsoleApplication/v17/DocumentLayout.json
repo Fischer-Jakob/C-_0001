@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\C\u002B\u002B Project\\cpp_001\\FirstConsoleApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCCB33-708B-49BC-8188-83F9CEB97075}|FirstConsoleApplication\\FirstConsoleApplication.vcxproj|C:\\Projects\\C\u002B\u002B Project\\cpp_001\\FirstConsoleApplication\\FirstConsoleApplication\\Quelle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDCCCB33-708B-49BC-8188-83F9CEB97075}|FirstConsoleApplication\\FirstConsoleApplication.vcxproj|solutionrelative:FirstConsoleApplication\\Quelle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCCCB33-708B-49BC-8188-83F9CEB97075}|FirstConsoleApplication\\FirstConsoleApplication.vcxproj|C:\\Projects\\C\u002B\u002B Project\\cpp_001\\FirstConsoleApplication\\FirstConsoleApplication\\FirstConsoleApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDCCCB33-708B-49BC-8188-83F9CEB97075}|FirstConsoleApplication\\FirstConsoleApplication.vcxproj|solutionrelative:FirstConsoleApplication\\FirstConsoleApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quelle.cpp",
+              "DocumentMoniker": "C:\\Projects\\C\u002B\u002B Project\\cpp_001\\FirstConsoleApplication\\FirstConsoleApplication\\Quelle.cpp",
+              "RelativeDocumentMoniker": "FirstConsoleApplication\\Quelle.cpp",
+              "ToolTip": "C:\\Projects\\C\u002B\u002B Project\\cpp_001\\FirstConsoleApplication\\FirstConsoleApplication\\Quelle.cpp",
+              "RelativeToolTip": "FirstConsoleApplication\\Quelle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-18T18:44:46.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstConsoleApplication.cpp",
+              "DocumentMoniker": "C:\\Projects\\C\u002B\u002B Project\\cpp_001\\FirstConsoleApplication\\FirstConsoleApplication\\FirstConsoleApplication.cpp",
+              "RelativeDocumentMoniker": "FirstConsoleApplication\\FirstConsoleApplication.cpp",
+              "ToolTip": "C:\\Projects\\C\u002B\u002B Project\\cpp_001\\FirstConsoleApplication\\FirstConsoleApplication\\FirstConsoleApplication.cpp",
+              "RelativeToolTip": "FirstConsoleApplication\\FirstConsoleApplication.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-18T18:44:32.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+﻿  FirstConsoleApplication.cpp
+  Quelle.cpp
+  Code wird generiert...
+Quelle.obj : error LNK2005: _main ist bereits in FirstConsoleApplication.obj definiert.
+C:\Projects\C++ Project\cpp_001\FirstConsoleApplication\Debug\FirstConsoleApplication.exe : fatal error LNK1169: Mindestens ein mehrfach definiertes Symbol gefunden.
